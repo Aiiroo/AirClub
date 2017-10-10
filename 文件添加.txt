@@ -1,1 +1,1 @@
-命令是 git add 文件添加.txt
+命令是 git add filename.txt
